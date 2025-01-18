@@ -132,7 +132,10 @@ p.note { display: none; }
 <a href="20250117_001.JPG" target="_blank"><img src="20250117_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250117_002.JPG" target="_blank"><img src="20250117_002.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">チェンライの北隣にある小さな町、メーサイで銀行に寄ります</span></h2>
+<h2><span class="yellow">チェンライの北隣にある小さな町、メーチャンで銀行に寄ります<br>GoogleMaps埋め込みました↓</span></h2>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1737165219893!6m8!1m7!1sLVlherNA7fxoO6CKt4E27w!2m2!1d20.14971164360687!2d99.85515075176161!3f281.59924905500844!4f-1.4094057171566732!5f0.4000000000000002" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
+
 <a href="20250117_003.JPG" target="_blank"><img src="20250117_003.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">銀行の向かいは携帯ショップ、IT機器のお店はおしゃれです</span></h2>
@@ -162,7 +165,7 @@ p.note { display: none; }
 <h2><span class="yellow">さっきの市場とホームセンターで購入した品々</span></h2>
 <a href="20250117_014.JPG" target="_blank"><img src="20250117_014.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">お昼のピーク時間を過ぎたのでメーサイの町に戻って評判のラーメン屋さん</span></h2>
+<h2><span class="yellow">お昼のピーク時間を過ぎたのでメーチャンの町に戻って評判のラーメン屋さん</span></h2>
 <a href="20250117_015.JPG" target="_blank"><img src="20250117_015.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">3日連続でお昼をいただいたので、今日はこちらからラーメンをご馳走します</span></h2>
@@ -180,7 +183,7 @@ p.note { display: none; }
 <h2><span class="yellow">水はセルフサービス</span></h2>
 <a href="20250117_022.JPG" target="_blank"><img src="20250117_022.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">お客さんは3世代の一家と、先生に引率された高校生</span></h2>
+<h2><span class="yellow">お客さんは3世代の一家と、先生に引率された女子高生</span></h2>
 <a href="20250117_023.JPG" target="_blank"><img src="20250117_023.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">食後はまたまた市場で野菜調達</span></h2>
@@ -234,7 +237,7 @@ p.note { display: none; }
 <a href="20250117_045.JPG" target="_blank"><img src="20250117_045.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250117_046.JPG" target="_blank"><img src="20250117_046.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">スーパーでも、金のお店は派手でした<br>黒マスクはセキュリティーのお姉さん</span></h2>
+<h2><span class="yellow">スーパーでも、金のお店は派手でした<br>黒マスクはセキュリティーのかっこいいお姉さん</span></h2>
 <a href="20250117_047.JPG" target="_blank"><img src="20250117_047.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">ワゴンセールのサンダルは300円切ってます</span></h2>
