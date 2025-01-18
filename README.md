@@ -219,7 +219,7 @@ p.note { display: none; }
 <h2><span class="yellow">陽が傾くと猫ちゃんは塀の上で監視モード</span></h2>
 <a href="20250117_039.JPG" target="_blank"><img src="20250117_039.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">いつものスーパーで安くなった鳥の丸焼きを購入</span></h2>
+<h2><span class="yellow">いつものスーパーで安くなった鳥の丸焼きを購入<br>夕方7時過ぎには110バーツに値下げしてました</span></h2>
 <a href="20250117_040.JPG" target="_blank"><img src="20250117_040.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">棚には賞味期限が新しくなったパンが並びます</span></h2>
@@ -240,7 +240,7 @@ p.note { display: none; }
 <h2><span class="yellow">ワゴンセールのサンダルは300円切ってます</span></h2>
 <a href="20250117_048.JPG" target="_blank"><img src="20250117_048.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">夕焼けグラデーションはピンク味を帯びてました</span></h2>
+<h2><span class="yellow">夕焼けグラデーションはピンク味を帯びてました<br>宵の明星「金星」もキラリ！</span></h2>
 <a href="20250117_049.JPG" target="_blank"><img src="20250117_049.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">夜空は惑星２つが加わって賑やかです</span></h2>
